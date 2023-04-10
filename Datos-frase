@@ -1,0 +1,4 @@
+x=input("Nombre:")
+y=input("Apellido:")
+z=input("Ubicación:")
+print("Mi nombre es "+x +""+y+" y vivo en "+z);
